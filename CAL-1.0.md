@@ -1,4 +1,4 @@
-#Cryptographic Autonomy License version 1.0
+# Cryptographic Autonomy License version 1.0
 
 *This Cryptographic Autonomy License (the "License") applies to any Work whose owner has marked it with any of the following notices:*
 
