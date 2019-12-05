@@ -84,11 +84,11 @@ A "Compatible Open Source License" means a license accepted by the Open Source I
 
 You may delay providing the Source Code corresponding to a particular modification of the Work for up to ninety (90) days (the "Embargo Period") if:
 
-1.  the modification is intended to address a newly-identified vulnerability or a security flaw in the Work, 
+1.  the modification is intended to address a newly-identified vulnerability or a security flaw in the Work;
 
-2.  disclosure of the vulnerability or security flaw before the end of the Embargo Period would put the data, identity, or autonomy of one or more Recipients of the Work at significant risk,
+2.  disclosure of the vulnerability or security flaw before the end of the Embargo Period would put the data, identity, or autonomy of one or more Recipients of the Work at significant risk;
 
-3.  You are participating in a coordinated disclosure of the vulnerability or security flaw with one or more additional Licensees, and 
+3.  You are participating in a coordinated disclosure of the vulnerability or security flaw with one or more additional Licensees; and 
 
 4.  Access to the Source Code pertaining to the modification is provided to all Recipients at the end of the Embargo Period.
 
