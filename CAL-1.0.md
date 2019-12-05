@@ -104,7 +104,7 @@ Throughout any period in which You exercise any of the permissions granted to Yo
 
 #### 4.2.2. No Technical Measures that Limit Access
 
-You may not, by means of the use cryptographic methods applied to anything provided to the Recipient, by possession or control of cryptographic keys, seeds, hashes, by any other technological protection measures, or by any other method, limit a Recipient's ability to access any functionality present in Recipient's independent copy of the Work, or to deny a Recipient full control of the Recipient's User Data.
+You may not, by means of the use of cryptographic methods applied to anything provided to the Recipient, by possession or control of cryptographic keys, seeds, hashes, by any other technological protection measures, or by any other method, limit a Recipient's ability to access any functionality present in Recipient's independent copy of the Work, or to deny a Recipient full control of the Recipient's User Data.
 
 #### 4.2.3. No Legal or Contractual Measures that Limit Access
 
