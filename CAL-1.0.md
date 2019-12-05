@@ -48,17 +48,17 @@ Any failure to act according to the terms and conditions of this License places 
 
 Conditioned on compliance with section 4, and subject to the limitations of section 3.2, Licensor grants You the world-wide, royalty-free, non-exclusive permission to:
 
-  > a) Take any action with the Work that would infringe the non-patent intellectual property laws of any jurisdiction to which You are subject; and
+1.  Take any action with the Work that would infringe the non-patent intellectual property laws of any jurisdiction to which You are subject; and
 
-  > b) Take any action with the Work that would infringe any patent claims that Licensor can license or becomes able to license, to the extent that those claims are embodied in the Work as distributed by Licensor.
+2.  Take any action with the Work that would infringe any patent claims that Licensor can license or becomes able to license, to the extent that those claims are embodied in the Work as distributed by Licensor.
 
 ### 3.2. Limitations on Permissions Granted
 
 The following limitations apply to the permissions granted in section 3.1: 
 
-  > a) Licensor does not grant any patent license for claims that are only infringed due to modification of the Work as provided by Licensor, or the combination of the Work as provided by Licensor, directly or indirectly, with any other component, including other software or hardware.
+1.  Licensor does not grant any patent license for claims that are only infringed due to modification of the Work as provided by Licensor, or the combination of the Work as provided by Licensor, directly or indirectly, with any other component, including other software or hardware.
 
-  > b) Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 4.1 of this License.
+2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 4.1 of this License.
 
 ## 4. Conditions
 
@@ -84,13 +84,13 @@ A "Compatible Open Source License" means a license accepted by the Open Source I
 
 You may delay providing the Source Code corresponding to a particular modification of the Work for up to ninety (90) days (the "Embargo Period") if:
 
-  > a) the modification is intended to address a newly-identified vulnerability or a security flaw in the Work, 
+1.  the modification is intended to address a newly-identified vulnerability or a security flaw in the Work, 
 
-  > b) disclosure of the vulnerability or security flaw before the end of the Embargo Period would put the data, identity, or autonomy of one or more Recipients of the Work at significant risk,
+2.  disclosure of the vulnerability or security flaw before the end of the Embargo Period would put the data, identity, or autonomy of one or more Recipients of the Work at significant risk,
 
-  > c) You are participating in a coordinated disclosure of the vulnerability or security flaw with one or more additional Licensees, and 
+3.  You are participating in a coordinated disclosure of the vulnerability or security flaw with one or more additional Licensees, and 
 
-  > d) Access to the Source Code pertaining to the modification is provided to all Recipients at the end of the Embargo Period.
+4.  Access to the Source Code pertaining to the modification is provided to all Recipients at the end of the Embargo Period.
 
 ### 4.2. Maintain User Autonomy
 
