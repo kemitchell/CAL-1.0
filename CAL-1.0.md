@@ -8,8 +8,8 @@
 *"Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception," or*
 
 *"SPDX-License-Identifier: CAL-1.0-With-Exception".*
-_________________________________________________________________
 
+---
 
 ## 1. Purpose
 This License gives You unlimited permission to use and modify the software to which it applies (the "Work"), either as-is or in modified form, for Your private purposes, while protecting the owners and contributors to the software from liability. 
