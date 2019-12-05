@@ -140,7 +140,7 @@ If You initiate litigation against Licensor, or any Recipient of the Work, eithe
 
 ## 6. Disclaimer of Warranty and Limit on Liability
 
-As far as the law allows, the Work comes AS-IS, without any warranty of any kind, and no Licensor or contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim, or for any type of damages, including indirect, special, incidental, or consequential damages of any type arising as a result of this License or the use of the Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of profits, revenue, or any and all other commercial damages or losses.
+***As far as the law allows, the Work comes AS-IS, without any warranty of any kind, and no Licensor or contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim, or for any type of damages, including indirect, special, incidental, or consequential damages of any type arising as a result of this License or the use of the Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of profits, revenue, or any and all other commercial damages or losses.***
 
 ## 7. Other Provisions
 
