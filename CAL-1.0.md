@@ -2,12 +2,19 @@
 
 *This Cryptographic Autonomy License (the "License") applies to any Work whose owner has marked it with any of the following notices:*
 
-*"Licensed under the Cryptographic Autonomy License version 1.0," or
-"SPDX-License-Identifier: CAL-1.0," or*
+> Licensed under the Cryptographic Autonomy License version 1.0
 
-*"Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception," or*
+or
 
-*"SPDX-License-Identifier: CAL-1.0-With-Exception".*
+> SPDX-License-Identifier: CAL-1.0
+
+or
+
+> Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception
+
+or
+
+> SPDX-License-Identifier: CAL-1.0-With-Exception
 
 ---
 
